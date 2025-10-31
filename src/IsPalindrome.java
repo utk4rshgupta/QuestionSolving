@@ -1,6 +1,6 @@
 public class IsPalindrome {
     static void main(String[] args) {
-        String str = "racecar";
+        String str = "raceca";
         System.out.println(ispalindrome(str));
 
     }
