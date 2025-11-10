@@ -32,7 +32,7 @@ public class searchInrotated {
                 right = mid;
 
         }
-        return left;
+        return  left;
 
     }
 }
